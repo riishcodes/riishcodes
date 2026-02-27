@@ -54,10 +54,7 @@ I like building what doesn’t exist yet.
 
 ## 📊 GitHub Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riishcodes&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riishcodes&layout=compact&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riishcodes&theme=tokyo-night&hide_border=true&bg_color=00000000" />
